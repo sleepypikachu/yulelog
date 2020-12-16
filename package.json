@@ -1,0 +1,25 @@
+{
+  "name": "yulelog",
+  "version": "1.0.0",
+  "description": "Bring some Christmas Emoji to your logging!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sleepypikachu/yulelog.git"
+  },
+  "keywords": [
+    "christmas",
+    "log",
+    "yule",
+    "emoji"
+  ],
+  "author": "Elliot Iddon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sleepypikachu/yulelog/issues"
+  },
+  "homepage": "https://github.com/sleepypikachu/yulelog#readme"
+}
