@@ -4,6 +4,19 @@ Inspired by [@ChloeCondon's Tweet](https://twitter.com/ChloeCondon/status/133887
 ## Functionality
 
 If the current month is December and the date is on or before the 25th a festive emoji will be added to your `console.log` messages.
+```
+> new Date()
+2020-12-17T15:43:49.638Z
+> console.log("Merry, Christmas!");
+Merry, Christmas!
+undefined
+> require('yulelog')
+{ log: [Function: yuleLog] }
+> console.log("Merry, Christmas!");
+🌟: Merry, Christmas!
+undefined
+> 
+```
 
 You can get year round cheer by using the `log` function exported from this package.
 
